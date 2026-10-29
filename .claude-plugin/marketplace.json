@@ -1,0 +1,39 @@
+{
+  "name": "pravnyadv",
+  "description": "Plugins by Praveen Yadav",
+  "owner": {
+    "name": "Praveen Yadav",
+    "url": "https://github.com/pravnyadv"
+  },
+  "plugins": [
+    {
+      "name": "safekeys",
+      "description": "Give Claude Code your API keys without putting them in the chat: $:NAME=value goes to your OS keychain and Claude only sees $NAME",
+      "author": {
+        "name": "Praveen Yadav"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/pravnyadv/claude-safekeys",
+      "category": "security",
+      "source": {
+        "source": "git-subdir",
+        "url": "pravnyadv/claude-safekeys",
+        "path": "safekeys"
+      }
+    },
+    {
+      "name": "monday-tasks",
+      "description": "Work with monday.com from Claude Code: read and update tasks, post updates, and track which session worked on which task and MR",
+      "author": {
+        "name": "Praveen Yadav"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/pravnyadv/monday-claude",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "pravnyadv/monday-claude"
+      }
+    }
+  ]
+}
