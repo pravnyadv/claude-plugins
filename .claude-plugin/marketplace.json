@@ -34,6 +34,20 @@
         "source": "github",
         "repo": "pravnyadv/monday-claude"
       }
+    },
+    {
+      "name": "slack-messages",
+      "description": "Read and reply on Slack from Claude Code as yourself, with your own user token (never a bot). Every message is a draft you approve first.",
+      "author": {
+        "name": "Praveen Yadav"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/pravnyadv/slack-claude",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "pravnyadv/slack-claude"
+      }
     }
   ]
 }
