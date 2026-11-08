@@ -28,11 +28,11 @@
         "name": "Praveen Yadav"
       },
       "license": "MIT",
-      "homepage": "https://github.com/pravnyadv/monday-claude",
+      "homepage": "https://github.com/pravnyadv/claude-monday",
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "pravnyadv/monday-claude"
+        "repo": "pravnyadv/claude-monday"
       }
     },
     {
@@ -42,11 +42,11 @@
         "name": "Praveen Yadav"
       },
       "license": "MIT",
-      "homepage": "https://github.com/pravnyadv/slack-claude",
+      "homepage": "https://github.com/pravnyadv/claude-slack",
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "pravnyadv/slack-claude"
+        "repo": "pravnyadv/claude-slack"
       }
     }
   ]
