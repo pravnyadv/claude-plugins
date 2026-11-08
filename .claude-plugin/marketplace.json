@@ -22,7 +22,7 @@
       }
     },
     {
-      "name": "monday-tasks",
+      "name": "monday",
       "description": "Work with monday.com from Claude Code: read and update tasks, post updates, and track which session worked on which task and MR",
       "author": {
         "name": "Praveen Yadav"
@@ -36,7 +36,7 @@
       }
     },
     {
-      "name": "slack-messages",
+      "name": "slack",
       "description": "Read and reply on Slack from Claude Code as yourself, with your own user token (never a bot). Every message is a draft you approve first.",
       "author": {
         "name": "Praveen Yadav"

@@ -11,8 +11,8 @@ Then install what you need:
 | Plugin | What it does | Install |
 |---|---|---|
 | [safekeys](https://github.com/pravnyadv/claude-safekeys) | Give Claude Code your API keys without putting them in the chat. `$:NAME=value` goes to your OS keychain, and Claude only sees `$NAME`. | `/plugin install safekeys@pravnyadv` |
-| [monday-tasks](https://github.com/pravnyadv/claude-monday) | Work with monday.com from Claude Code: read and update tasks, post updates, and track which session worked on which task and MR. | `/plugin install monday-tasks@pravnyadv` |
-| [slack-messages](https://github.com/pravnyadv/claude-slack) | Read and reply on Slack as yourself, through your own user token, never a bot. Every message is a draft you approve first. | `/plugin install slack-messages@pravnyadv` |
+| [monday](https://github.com/pravnyadv/claude-monday) | Work with monday.com from Claude Code: read and update tasks, post updates, and track which session worked on which task and MR. | `/plugin install monday@pravnyadv` |
+| [slack](https://github.com/pravnyadv/claude-slack) | Read and reply on Slack as yourself, through your own user token, never a bot. Every message is a draft you approve first. | `/plugin install slack@pravnyadv` |
 
 Run `/reload-plugins` or start a new session after installing.
 
